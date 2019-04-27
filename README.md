@@ -3,7 +3,7 @@ DockerでNode.jsとRedisのコンテナを立ち上げて, docker-compseで処�
 
 # Usage
 ```bash
-git clone URL
+git clone git@github.com:solareenlo/visits-docker-nodejs.git
 cd visits-docker-nodejs
 docker-compose up -d
 # 任意のブラウザでlobalhost:8082を訪れると訪問回数を表示するサイトが表示される
